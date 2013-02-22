@@ -28,7 +28,7 @@
   <version>0.8.1-SNAPSHOT</version>
   <packaging>jszip</packaging>
 
-  <name>Q</name>
+  <name>q</name>
   <description>
     A tool for making and composing asynchronous promises in JavaScript.
   </description>
